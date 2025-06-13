@@ -28,9 +28,9 @@ Here are the languages and technologies I've learned and worked with:
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ViswaBB&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=ViswaBB&theme=radical)
 
 ## � Where to find me
 
