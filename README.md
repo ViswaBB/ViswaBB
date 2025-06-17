@@ -1,4 +1,4 @@
-# Hi there, I'm Viswa Bala Bharti N! 👋
+# Hi there, I'm Viswa Bala Bharti! 👋
 
 I'm a passionate software developer who loves building things and solving problems. Welcome to my GitHub profile!
 
