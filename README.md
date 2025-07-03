@@ -36,4 +36,4 @@ Here are the languages and technologies I've learned and worked with:
 - 🌱 I'm currently learning golang
 - 👯 I'm looking to collaborate on Github
 - 💬 Ask me about backend 
-- ⚡ Fun fact: [something interesting about you]
+
