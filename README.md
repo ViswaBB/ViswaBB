@@ -6,9 +6,6 @@ I'm a Computer Science undergraduate at Easwari Engineering College, passionate 
 
 I enjoy working across the stack — from designing REST APIs and relational databases to building React interfaces and integrating AI/ML capabilities into real-world applications.
 
-- 🎓 B.E. Computer Science & Engineering — Expected May 2027
-- 📊 CGPA: 8.39
-- 💻 350+ DSA problems solved on LeetCode
 - 🚀 Interested in Software Engineering, Full-Stack, Backend, AI/ML, and Data-focused roles
 
 ---
@@ -62,73 +59,6 @@ I enjoy working across the stack — from designing REST APIs and relational dat
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
-## 🚀 Featured Projects
-
-### 📋 Feedback Management System
-
-A full-stack employee feedback platform built for centralized feedback submission and management.
-
-**Tech:** FastAPI · PostgreSQL · React · SQLAlchemy
-
-- Built RESTful APIs for feedback CRUD operations
-- Implemented authentication, validation, and backend business logic
-- Designed relational database schemas for employees, feedback, and manager responses
-
----
-
-### 📊 TopicPulse — Sentiment Tracker
-
-A topic-based sentiment analysis application that analyzes YouTube comments based on user-defined keywords and topics.
-
-**Tech:** Python · NLTK · Scikit-learn · YouTube Data API · Gemini API
-
-- Collects and preprocesses YouTube comments
-- Classifies comments as positive, negative, or neutral using VADER
-- Tracks sentiment trends across topics
-- Uses Gemini API to generate concise summaries and identify key patterns
-
----
-
-### 🌱 Smart Crop Disease Detection
-
-A machine learning application for classifying plant diseases from leaf images.
-
-**Tech:** Python · Scikit-learn · Pandas · NumPy · Streamlit · Gemini API
-
-- Classifies plant diseases across 11 disease classes
-- Performs image preprocessing and feature extraction
-- Provides AI-powered treatment recommendations using Gemini API
-- Provides an interactive Streamlit interface
-
----
-
-## 💼 Experience
-
-### AI for Sustainability Intern — 1M1B Foundation
-
-**AICTE / IBM SkillsBuild · Virtual**
-
-- Completed a 6-week internship focused on Artificial Intelligence, Machine Learning, sustainability, and data-driven innovation
-- Worked on a real-world sustainability project applying AI tools and data-driven insights
-- Completed IBM SkillsBuild learning modules and practical challenges
-- Participated in expert-led workshops, mentorship sessions, and project showcases
-
----
-
-## 🏆 Achievements
-
-- 🧩 Solved **350+ Data Structures & Algorithms problems** on LeetCode
-- 💻 Ranked **Division II** in CodeChef programming contests
-- 🤖 Technical Head of **Gen AI Club**
-- 🚀 Co-organized a **24-hour campus hackathon with 150+ participants**
-
----
-
-## 📜 Certifications
-
-- **Python Essentials 1 & 2** — Cisco Networking Academy
-- **Python and Flask Framework Complete Course** — Udemy
 
 ---
 
