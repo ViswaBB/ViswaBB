@@ -6,7 +6,7 @@ I'm a Computer Science undergraduate at Easwari Engineering College, passionate 
 
 I enjoy working across the stack — from designing REST APIs and relational databases to building React interfaces and integrating AI/ML capabilities into real-world applications.
 
-- 🚀 Interested in Software Engineering, Full-Stack, Backend, AI/ML, and Data-focused roles
+Interested in Software Engineering, Full-Stack, Backend, AI/ML, and Data-focused roles
 
 ---
 
@@ -43,13 +43,10 @@ I enjoy working across the stack — from designing REST APIs and relational dat
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-
-- Machine Learning
-- Natural Language Processing
-- Sentiment Analysis
-- LLM Integration
-- Data Processing
-- AI-powered Applications
+- 🧠 Natural Language Processing
+- 💬 Sentiment Analysis
+- 🔗 LLM Integration
+- 📊 Data Processing
 
 ### 🔧 Developer Tools
 
@@ -60,7 +57,6 @@ I enjoy working across the stack — from designing REST APIs and relational dat
 
 ---
 
----
 
 ## 🌐 Connect With Me
 
